@@ -4,6 +4,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: '/Portal-Economico-TDF',
 };
 
 module.exports = nextConfig;
