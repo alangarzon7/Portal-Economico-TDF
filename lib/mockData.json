@@ -1,0 +1,60 @@
+{
+  "latestKPIs": [
+    {
+      "indicator_code": "ipc_tdf",
+      "name": "IPC Regional Fueguino",
+      "value_regional": 4.2,
+      "unit": "%",
+      "change_monthly": 4.2,
+      "change_interannual": 238.5,
+      "date": "2024-08-01",
+      "source": "IPIEC Tierra del Fuego"
+    },
+    {
+      "indicator_code": "desempleo_tdf",
+      "name": "Desempleo Agl. Ushuaia-RG",
+      "value_regional": 7.4,
+      "unit": "%",
+      "change_monthly": 0.5,
+      "change_interannual": 1.2,
+      "date": "2024-06-30",
+      "source": "INDEC / IPIEC"
+    },
+    {
+      "indicator_code": "canasta_tdf",
+      "name": "Canasta Básica Total TDF",
+      "value_regional": 945800.0,
+      "unit": "ARS",
+      "change_monthly": 4.1,
+      "change_interannual": 230.1,
+      "date": "2024-08-01",
+      "source": "IPIEC Tierra del Fuego"
+    },
+    {
+      "indicator_code": "pbg_tdf",
+      "name": "PBG Trimestral TDF",
+      "value_regional": 452100.0,
+      "unit": "M ARS",
+      "change_monthly": -1.2,
+      "change_interannual": -3.4,
+      "date": "2024-06-30",
+      "source": "Secretaría de Economía TDF"
+    }
+  ],
+  "history": {
+    "ipc_tdf": [
+      { "fecha": "Set 23", "tdf": 12.5, "nacional": 12.7 },
+      { "fecha": "Oct 23", "tdf": 8.3, "nacional": 8.3 },
+      { "fecha": "Nov 23", "tdf": 12.8, "nacional": 12.8 },
+      { "fecha": "Dic 23", "tdf": 26.9, "nacional": 25.5 },
+      { "fecha": "Ene 24", "tdf": 19.8, "nacional": 20.6 },
+      { "fecha": "Feb 24", "tdf": 13.5, "nacional": 13.2 },
+      { "fecha": "Mar 24", "tdf": 11.2, "nacional": 11.0 },
+      { "fecha": "Abr 24", "tdf": 8.5, "nacional": 8.8 },
+      { "fecha": "May 24", "tdf": 4.9, "nacional": 4.2 },
+      { "fecha": "Jun 24", "tdf": 5.1, "nacional": 4.6 },
+      { "fecha": "Jul 24", "tdf": 4.8, "nacional": 4.0 },
+      { "fecha": "Ago 24", "tdf": 4.2, "nacional": 3.9 }
+    ]
+  }
+}
